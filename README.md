@@ -1,3 +1,10 @@
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/hanvietech-symbol-on-dark.svg">
+    <img src="assets/hanvietech-symbol.svg" width="64" height="64" alt="Hanvietech logo">
+  </picture>
+</p>
+
 # Hanvietech
 
 **From AI agents that know your business to code you can trust.**
